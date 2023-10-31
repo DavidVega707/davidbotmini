@@ -547,7 +547,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 104,
+      "exp": 160,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -736,7 +736,7 @@
       "mana": 0,
       "mangga": 0,
       "misi": "",
-      "money": 200,
+      "money": 250,
       "monyet": 0,
       "mythic": 0,
       "naga": 0,
@@ -995,7 +995,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 245,
+      "exp": 467,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -1184,7 +1184,7 @@
       "mana": 0,
       "mangga": 0,
       "misi": "",
-      "money": 150,
+      "money": 300,
       "monyet": 0,
       "mythic": 0,
       "naga": 0,
@@ -1443,7 +1443,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 651,
+      "exp": 658,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -1891,7 +1891,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 663,
+      "exp": 2309,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -2080,7 +2080,7 @@
       "mana": 0,
       "mangga": 0,
       "misi": "",
-      "money": 400,
+      "money": 1900,
       "monyet": 0,
       "mythic": 0,
       "naga": 0,
@@ -3236,7 +3236,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 214,
+      "exp": 1197,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -3425,7 +3425,7 @@
       "mana": 0,
       "mangga": 0,
       "misi": "",
-      "money": 200,
+      "money": 1100,
       "monyet": 0,
       "mythic": 0,
       "naga": 0,
@@ -4133,7 +4133,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 460,
+      "exp": 584,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -4322,7 +4322,7 @@
       "mana": 0,
       "mangga": 0,
       "misi": "",
-      "money": 450,
+      "money": 550,
       "monyet": 0,
       "mythic": 0,
       "naga": 0,
@@ -4583,9 +4583,9 @@
   },
   "stats": {
     "s-risa.js": {
-      "total": 13,
+      "total": 14,
       "success": 0,
-      "last": 1698717646756,
+      "last": 1698717822707,
       "lastSuccess": 0
     },
     "config-on y off.js": {
@@ -4619,10 +4619,10 @@
       "lastSuccess": 1698717258232
     },
     "fun-simi.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1698717609696,
-      "lastSuccess": 1698717609696
+      "total": 14,
+      "success": 14,
+      "last": 1698717878930,
+      "lastSuccess": 1698717878930
     },
     "herramientas-chatGPT.js": {
       "total": 3,
@@ -4687,7 +4687,7 @@
       "antiSpam": true,
       "modoia": false,
       "jadibotmd": true,
-      "status": 1698717705319
+      "status": 1698717934008
     }
   }
 }
